@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ardya Pusaka also A.K.A "Kizaru Zero"</h1>
+[⚠️ Suspicious Content] <h1 align="center">Hi 👋, I'm Ardya Pusaka also A.K.A "Kizaru Zero"</h1>
 <h3 align="center">A passionate Fullstack Web Developer From Indonesia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kizaruzero&label=Profile%20views&color=0e75b6&style=flat" alt="kizaruzero" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kizaruzero" alt="kizaruzero" /></a> </p>
 
 - 🔭 I’m currently working on [CMS Historycal Gallery for my Project Based Learning Lecture](https://github.com/KizaruZero/pbl-galeri-sejarah.git)
 
@@ -28,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kizaruzero&show_icons=true&locale=en" alt="kizaruzero" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kizaruzero&" alt="kizaruzero" /></p>
-
