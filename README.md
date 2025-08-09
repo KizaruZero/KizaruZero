@@ -1,9 +1,7 @@
  <h1 align="center">Hi 👋, I'm Ardya Pusaka also A.K.A "Kizaru Zero"</h1>
 <h3 align="center">A passionate Fullstack Web Developer From Indonesia</h3>
 
-- 🔭 I’m currently working on [CMS Historycal Gallery for my Project Based Learning Lecture](https://github.com/KizaruZero/pbl-galeri-sejarah.git)
-
-- 🌱 I’m currently learning **Golang,React and Solidity**
+- 🌱 I’m currently learning **Golang,React and C#**
 
 - 📫 How to reach me **ardyapusaka@gmail.com**
 
