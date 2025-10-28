@@ -1,5 +1,6 @@
  <h1 align="center">Hi 👋, I'm Ardya Pusaka also A.K.A "Kizaru Zero"</h1>
 <h3 align="center">A passionate Fullstack Web Developer From Indonesia</h3>
+[![wakatime](https://wakatime.com/badge/user/018d8c4b-ea8b-467e-9bf2-d3ca4ec69a7b.svg)](https://wakatime.com/@018d8c4b-ea8b-467e-9bf2-d3ca4ec69a7b)
 
 - 🌱 I’m currently learning **Golang,React and C#**
 
