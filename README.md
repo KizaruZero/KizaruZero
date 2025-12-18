@@ -19,3 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kizaruzero&show_icons=true&locale=en" alt="kizaruzero" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kizaruzero&" alt="kizaruzero" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
