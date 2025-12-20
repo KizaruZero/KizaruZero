@@ -22,4 +22,18 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LOC_CHART: "False"
-    
+
+      - name: Generate yearly WakaTime heatmap (SVG)
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          RANGE: "last_year"
+        run: |
+          python3 scripts/waka_yearly_heatmap.py
+
+      - name: Commit and push heatmap
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/waka-heatmap-*.svg README.md || true
+          git commit -m "Update WakaTime yearly heatmap" || exit 0
+          git push
