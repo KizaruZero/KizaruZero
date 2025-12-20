@@ -87,5 +87,6 @@ Windows                  12 hrs 34 mins      ███████████�
 
 ## WakaTime Yearly Heatmap
 
-![WakaTime Heatmap 2025](./assets/waka-heatmap-2025.svg)
+![WakaTime Heatmap (Last Year)](./assets/waka-heatmap-last_year.svg)
+
 
