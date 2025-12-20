@@ -84,3 +84,8 @@ Windows                  12 hrs 34 mins      ███████████�
 
  Last Updated on 20/12/2025 08:06:28 UTC
 <!--END_SECTION:waka-->
+
+## WakaTime Yearly Heatmap
+
+![WakaTime Heatmap 2025](./assets/waka-heatmap-2025.svg)
+
