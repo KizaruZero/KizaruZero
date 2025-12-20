@@ -8,6 +8,13 @@ import datetime as dt
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError, URLError
 
+# try:
+#     from dotenv import load_dotenv
+#     load_dotenv()
+# except ImportError:
+#     pass  # python-dotenv not installed, skip .env loading
+
+
 WAKATIME_API_KEY = os.environ["WAKATIME_API_KEY"].strip()
 RANGE = os.environ.get("RANGE", "last_year").strip()
 URL = f"https://api.wakatime.com/api/v1/users/current/insights/days/{RANGE}"
@@ -71,25 +78,23 @@ def fetch_json_with_retry(max_tries=12, sleep_seconds=25):
 
 def parse_days_insight(data):
     """
-    WakaTime insights/days items commonly contain:
-      - item["range"]["start"] (ISO)  ✅ use this
-      - sometimes item["date"] (YYYY-MM-DD)
-      - totals: item["grand_total"]["total_seconds"] or item["total_seconds"]
-    Output: dict[YYYY-MM-DD] = total_seconds
+    Response kamu:
+      "date": "YYYY-MM-DD"
+      "total": <seconds>   ✅ ini yang dipakai
     """
     days = data.get("days", [])
     date_to_seconds = {}
 
     for item in days:
-        # Prefer range.start (most common)
-        date_str = None
-        if isinstance(item.get("range"), dict) and item["range"].get("start"):
-            date_str = item["range"]["start"][:10]
-        elif item.get("date"):
-            date_str = item["date"]
+        date_str = item.get("date")
+        if not date_str:
+            if isinstance(item.get("range"), dict) and item["range"].get("start"):
+                date_str = item["range"]["start"][:10]
 
+        # ✅ Prioritas: item["total"] (seconds)
         total_seconds = (
-            item.get("total_seconds")
+            item.get("total")
+            or item.get("total_seconds")
             or (item.get("grand_total") or {}).get("total_seconds")
             or 0
         )
@@ -183,8 +188,8 @@ def build_svg(date_to_seconds, start_date: dt.date, end_date: dt.date, out_path:
     width = left_pad + len(weeks) * (cell + gap) + 12
     height = title_pad + top_pad + 7 * (cell + gap) + 34
 
-    title = f"WakaTime Heatmap ({RANGE})"
-    subtitle = "Daily totals (seconds) from WakaTime insights/days"
+    title = f"WakaTime Heatmap 2025"
+    subtitle = "Daily Coding Time Activity From WakaTime"
 
     svg = []
     svg.append(f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" role="img" aria-label="{title}">')
@@ -273,6 +278,9 @@ def build_svg(date_to_seconds, start_date: dt.date, end_date: dt.date, out_path:
 def main():
     data = fetch_json_with_retry()
     date_to_seconds = parse_days_insight(data)
+    nonzero = sum(1 for v in date_to_seconds.values() if v > 0)
+    mx = max(date_to_seconds.values(), default=0)
+    print("nonzero_days:", nonzero, "max_hours:", mx/3600)
 
     if not date_to_seconds:
         raise RuntimeError("No day data returned. Parsing failed or API returned empty days.")
