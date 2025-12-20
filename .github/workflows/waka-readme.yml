@@ -26,11 +26,8 @@ jobs:
       - name: Generate yearly WakaTime heatmap (SVG)
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          YEAR: ${{ github.run_id }} # placeholder, will override below
+          RANGE: "last_year"
         run: |
-          YEAR=$(date -u +%Y)
-          echo "YEAR=$YEAR" >> $GITHUB_ENV
-          python3 -V
           python3 scripts/waka_yearly_heatmap.py
 
       - name: Commit and push heatmap
