@@ -21,7 +21,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kizaruzero&" alt="kizaruzero" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C457%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C457%20hrs%2030%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -62,20 +62,23 @@ Sunday                   123 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Binary                   0 secs              █████████████████████████   100.00 % 
+Other                    5 mins              █████████████████████████   99.97 % 
+Binary                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Visual Studio            0 secs              █████████████████████████   100.00 % 
+Cursor                   5 mins              █████████████████████████   99.97 % 
+Visual Studio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-tugas_akhir-eprocurement-0 secs              █████████████████████████   100.00 % 
+trakindo-eprocurement    5 mins              █████████████████████████   99.97 % 
+tugas_akhir-eprocurement-0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/03/2026 01:16:28 UTC
+ Last Updated on 26/03/2026 01:21:24 UTC
 <!--END_SECTION:waka-->
 
 ## WakaTime Yearly Heatmap
