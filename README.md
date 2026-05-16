@@ -21,6 +21,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kizaruzero&" alt="kizaruzero" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C542%20hrs%2012%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 689.3 kB Used in GitHub's Storage 
@@ -33,8 +35,53 @@
  > 
 > 🔑 43 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 15/05/2026 02:09:03 UTC
+```text
+🌞 Morning                342 commits         ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+🌆 Daytime                429 commits         █████████░░░░░░░░░░░░░░░░   34.82 % 
+🌃 Evening                388 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
+🌙 Night                  73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   200 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Tuesday                  174 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Wednesday                219 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Thursday                 168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Friday                   144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Saturday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Sunday                   173 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Python                   4 hrs 39 mins       ████████████░░░░░░░░░░░░░   49.13 % 
+XML                      4 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.29 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+
+🔥 Editors: 
+Cursor                   9 hrs 28 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+cakrawala                8 hrs 3 mins        █████████████████████░░░░   85.04 % 
+odoo                     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+trakindo-eprocurement    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+💻 Operating System: 
+Windows                  9 hrs 28 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/05/2026 02:01:03 UTC
 <!--END_SECTION:waka-->
 
 ## WakaTime Yearly Heatmap
