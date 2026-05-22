@@ -25,7 +25,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 689.4 kB Used in GitHub's Storage 
+> 📦 689.5 kB Used in GitHub's Storage 
  > 
 > 🏆 132 Contributions in the Year 2026
  > 
@@ -35,8 +35,53 @@
  > 
 > 🔑 43 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 21/05/2026 02:12:46 UTC
+```text
+🌞 Morning                382 commits         ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+🌆 Daytime                454 commits         █████████░░░░░░░░░░░░░░░░   34.95 % 
+🌃 Evening                390 commits         ████████░░░░░░░░░░░░░░░░░   30.02 % 
+🌙 Night                  73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   223 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Tuesday                  180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Wednesday                249 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Thursday                 172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Friday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Saturday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Sunday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Python                   3 hrs 13 mins       ██████████████░░░░░░░░░░░   57.78 % 
+XML                      2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.58 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+🔥 Editors: 
+Cursor                   5 hrs 11 mins       ███████████████████████░░   93.00 % 
+Antigravity              23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+
+🐱‍💻 Projects: 
+cakrawala                5 hrs 8 mins        ███████████████████████░░   92.07 % 
+odoo                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+
+💻 Operating System: 
+Windows                  5 hrs 34 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 22/05/2026 02:15:56 UTC
 <!--END_SECTION:waka-->
 
 ## WakaTime Yearly Heatmap
