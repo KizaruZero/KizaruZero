@@ -21,13 +21,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kizaruzero&" alt="kizaruzero" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C550%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C551%20hrs%2015%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 689.5 kB Used in GitHub's Storage 
  > 
-> 🏆 132 Contributions in the Year 2026
+> 🏆 138 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,52 +35,8 @@
  > 
 > 🔑 43 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                383 commits         ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-🌆 Daytime                466 commits         █████████░░░░░░░░░░░░░░░░   35.46 % 
-🌃 Evening                392 commits         ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-🌙 Night                  73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   224 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Tuesday                  180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Wednesday                249 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Thursday                 185 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Friday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Saturday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Sunday                   174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Python                   2 hrs 43 mins       ███████████████░░░░░░░░░░   59.59 % 
-XML                      1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.18 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-
-🔥 Editors: 
-Cursor                   4 hrs 10 mins       ███████████████████████░░   91.44 % 
-Antigravity              23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-
-🐱‍💻 Projects: 
-cakrawala                4 hrs 27 mins       ████████████████████████░   97.85 % 
-odoo                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-
-💻 Operating System: 
-Windows                  4 hrs 33 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 24/05/2026 02:12:12 UTC
+ Last Updated on 25/05/2026 02:30:37 UTC
 <!--END_SECTION:waka-->
 
 ## WakaTime Yearly Heatmap
