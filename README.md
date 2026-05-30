@@ -21,11 +21,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kizaruzero&" alt="kizaruzero" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C556%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C556%20hrs%2018%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 689.6 kB Used in GitHub's Storage 
+> 📦 689.5 kB Used in GitHub's Storage 
  > 
 > 🏆 146 Contributions in the Year 2026
  > 
@@ -35,8 +35,58 @@
  > 
 > 🔑 43 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 29/05/2026 02:09:40 UTC
+```text
+🌞 Morning                460 commits         ████████░░░░░░░░░░░░░░░░░   31.38 % 
+🌆 Daytime                524 commits         █████████░░░░░░░░░░░░░░░░   35.74 % 
+🌃 Evening                409 commits         ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+🌙 Night                  73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   281 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Tuesday                  200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Wednesday                285 commits         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Thursday                 196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Friday                   163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Saturday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Sunday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+XML                      2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   38.32 % 
+Python                   1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   33.83 % 
+C#                       43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Binary                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 50 mins       ████████████░░░░░░░░░░░░░   48.30 % 
+Antigravity              2 hrs 31 mins       ███████████░░░░░░░░░░░░░░   42.83 % 
+Visual Studio            26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+
+🐱‍💻 Projects: 
+cakrawala                3 hrs 38 mins       ███████████████░░░░░░░░░░   61.74 % 
+evoq-eprocurement-backend1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+odoo                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+cakrawala_project        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+agent-tools              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+
+💻 Operating System: 
+Windows                  5 hrs 53 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 30/05/2026 02:04:11 UTC
 <!--END_SECTION:waka-->
 
 ## WakaTime Yearly Heatmap
