@@ -5,7 +5,6 @@
 <text x="30" y="74" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial" font-size="10" fill="#888">Mon</text>
 <text x="30" y="100" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial" font-size="10" fill="#888">Wed</text>
 <text x="30" y="126" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial" font-size="10" fill="#888">Fri</text>
-<text x="36" y="40" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial" font-size="10" fill="#888">Jun</text>
 <text x="88" y="40" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial" font-size="10" fill="#888">Jul</text>
 <text x="140" y="40" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial" font-size="10" fill="#888">Aug</text>
 <text x="205" y="40" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial" font-size="10" fill="#888">Sep</text>
@@ -18,9 +17,9 @@
 <text x="595" y="40" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial" font-size="10" fill="#888">Apr</text>
 <text x="647" y="40" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial" font-size="10" fill="#888">May</text>
 <text x="712" y="40" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial" font-size="10" fill="#888">Jun</text>
-<rect x="36" y="52" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-01: 0.00h</title></rect>
-<rect x="36" y="65" width="11" height="11" rx="2" ry="2" fill="#40c463"><title>2025-06-02: 1.01h</title></rect>
-<rect x="36" y="78" width="11" height="11" rx="2" ry="2" fill="#40c463"><title>2025-06-03: 1.92h</title></rect>
+<rect x="36" y="52" width="11" height="11" rx="2" ry="2" fill="#ffffff"><title>2025-06-01: 0.00h</title></rect>
+<rect x="36" y="65" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-02: 0.00h</title></rect>
+<rect x="36" y="78" width="11" height="11" rx="2" ry="2" fill="#30a14e"><title>2025-06-03: 1.92h</title></rect>
 <rect x="36" y="91" width="11" height="11" rx="2" ry="2" fill="#40c463"><title>2025-06-04: 1.50h</title></rect>
 <rect x="36" y="104" width="11" height="11" rx="2" ry="2" fill="#216e39"><title>2025-06-05: 7.82h</title></rect>
 <rect x="36" y="117" width="11" height="11" rx="2" ry="2" fill="#216e39"><title>2025-06-06: 7.00h</title></rect>
@@ -80,7 +79,7 @@
 <rect x="140" y="91" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-30: 0.00h</title></rect>
 <rect x="140" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-31: 0.00h</title></rect>
 <rect x="140" y="117" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-01: 0.00h</title></rect>
-<rect x="140" y="130" width="11" height="11" rx="2" ry="2" fill="#9be9a8"><title>2025-08-02: 0.87h</title></rect>
+<rect x="140" y="130" width="11" height="11" rx="2" ry="2" fill="#40c463"><title>2025-08-02: 0.87h</title></rect>
 <rect x="153" y="52" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-03: 0.00h</title></rect>
 <rect x="153" y="65" width="11" height="11" rx="2" ry="2" fill="#30a14e"><title>2025-08-04: 2.18h</title></rect>
 <rect x="153" y="78" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-05: 0.00h</title></rect>
@@ -379,12 +378,12 @@
 <rect x="699" y="65" width="11" height="11" rx="2" ry="2" fill="#40c463"><title>2026-05-25: 1.33h</title></rect>
 <rect x="699" y="78" width="11" height="11" rx="2" ry="2" fill="#30a14e"><title>2026-05-26: 2.02h</title></rect>
 <rect x="699" y="91" width="11" height="11" rx="2" ry="2" fill="#9be9a8"><title>2026-05-27: 0.63h</title></rect>
-<rect x="699" y="104" width="11" height="11" rx="2" ry="2" fill="#9be9a8"><title>2026-05-28: 0.89h</title></rect>
+<rect x="699" y="104" width="11" height="11" rx="2" ry="2" fill="#40c463"><title>2026-05-28: 0.89h</title></rect>
 <rect x="699" y="117" width="11" height="11" rx="2" ry="2" fill="#9be9a8"><title>2026-05-29: 0.27h</title></rect>
 <rect x="699" y="130" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-05-30: 0.00h</title></rect>
 <rect x="712" y="52" width="11" height="11" rx="2" ry="2" fill="#30a14e"><title>2026-05-31: 3.17h</title></rect>
-<rect x="712" y="65" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-06-01: 0.00h</title></rect>
-<rect x="712" y="78" width="11" height="11" rx="2" ry="2" fill="#ffffff"><title>2026-06-02: 0.00h</title></rect>
+<rect x="712" y="65" width="11" height="11" rx="2" ry="2" fill="#9be9a8"><title>2026-06-01: 0.05h</title></rect>
+<rect x="712" y="78" width="11" height="11" rx="2" ry="2" fill="#9be9a8"><title>2026-06-02: 0.38h</title></rect>
 <rect x="712" y="91" width="11" height="11" rx="2" ry="2" fill="#ffffff"><title>2026-06-03: 0.00h</title></rect>
 <rect x="712" y="104" width="11" height="11" rx="2" ry="2" fill="#ffffff"><title>2026-06-04: 0.00h</title></rect>
 <rect x="712" y="117" width="11" height="11" rx="2" ry="2" fill="#ffffff"><title>2026-06-05: 0.00h</title></rect>
