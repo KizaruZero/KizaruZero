@@ -21,7 +21,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kizaruzero&" alt="kizaruzero" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C686%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C688%20hrs%203%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -62,30 +62,30 @@ Sunday                   293 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C#                       3 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
-Python                   3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-Vue                      2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-XML                      1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Binary                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+C#                       4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+Python                   3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+Vue                      2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+XML                      1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Binary                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 
 🔥 Editors: 
-Claude Code              10 hrs              ████████████████░░░░░░░░░   63.11 % 
-Cursor                   4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.27 % 
-Visual Studio            1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Claude Code              10 hrs              ███████████████░░░░░░░░░░   61.25 % 
+Cursor                   5 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.33 % 
+Visual Studio            1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 🐱‍💻 Projects: 
-evoq-eprocurement-backend4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-cakrawala                3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-evoq-frontend            2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-odoo                     2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-evoq-eprocurement-backend2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+evoq-eprocurement-backend4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+cakrawala                3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+evoq-frontend            2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+odoo                     2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+evoq-eprocurement-backend2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 
 💻 Operating System: 
-Windows                  15 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/07/2026 01:49:57 UTC
+ Last Updated on 27/07/2026 01:57:06 UTC
 <!--END_SECTION:waka-->
 
 ## WakaTime Yearly Heatmap
