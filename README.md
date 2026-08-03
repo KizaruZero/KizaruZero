@@ -64,33 +64,33 @@ Sunday                   291 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-C#                       2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Vue                      1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Other                    1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Python                   2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Vue                      1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+C#                       1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Other                    1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 9 mins        █████████████░░░░░░░░░░░░   51.32 % 
-Claude Code              4 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   39.00 % 
-Antigravity              47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Visual Studio            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Cursor                   5 hrs 40 mins       ████████████░░░░░░░░░░░░░   49.28 % 
+Claude Code              4 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   40.64 % 
+Antigravity              47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Visual Studio            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🐱‍💻 Projects: 
-cakrawala                3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.68 % 
-evoq-eprocurement-backend2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-odoo                     2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-evoq-frontend            2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-nextbytehackaton-fixit   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+cakrawala                3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+evoq-eprocurement-backend2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+odoo                     2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+evoq-frontend            2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+nextbytehackaton-fixit   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 
 💻 Operating System: 
-Windows                  11 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 50 mins (65.37%)
+⏱ AI Coding Time: 7 hrs 50 mins (68.11%)
 
 ✍️ 1,893 lines written by AI, 555 lines written by hand (77.33% AI-written)
 
@@ -107,11 +107,11 @@ Opus                     1,190 lines         ███████████�
 🤖 AI-Driven — 77.33% of written lines came from AI
 📄 Detailed Prompter — average 882 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 36.56% of changed lines were hand-edited
+🚀 High AI Trust — 36.54% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/08/2026 01:48:54 UTC
+ Last Updated on 03/08/2026 01:51:25 UTC
 <!--END_SECTION:waka-->
 
 ## WakaTime Yearly Heatmap
