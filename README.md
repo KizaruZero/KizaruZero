@@ -21,9 +21,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kizaruzero&" alt="kizaruzero" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C664%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C666%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2049%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -64,54 +64,54 @@ Sunday                   291 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Vue                      1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-C#                       1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Other                    1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Vue                      2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Python                   2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+C#                       1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Other                    1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 40 mins       ████████████░░░░░░░░░░░░░   49.28 % 
-Claude Code              4 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   40.64 % 
-Antigravity              47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Visual Studio            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Cursor                   6 hrs 6 mins        ████████████░░░░░░░░░░░░░   48.86 % 
+Claude Code              5 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   40.71 % 
+Antigravity              47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Visual Studio            30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🐱‍💻 Projects: 
-cakrawala                3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-evoq-eprocurement-backend2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-odoo                     2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-evoq-frontend            2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-nextbytehackaton-fixit   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+evoq-frontend            3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+evoq-eprocurement-backend2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+cakrawala                2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+odoo                     2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+nextbytehackaton-fixit   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 💻 Operating System: 
-Windows                  11 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 50 mins (68.11%)
+⏱ AI Coding Time: 8 hrs 23 mins (66.99%)
 
-✍️ 1,893 lines written by AI, 555 lines written by hand (77.33% AI-written)
+✍️ 2,018 lines written by AI, 562 lines written by hand (78.22% AI-written)
 
-🔤 94,912,322 Input Tokens, 358,280 Output Tokens
+🔤 100,755,261 Input Tokens, 382,740 Output Tokens
 
-💵 $485.32 Estimated AI Cost This Week
+💵 $513.27 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 79 AI Prompts
+🧠 19 AI Sessions, 101 AI Prompts
 
-Composer                 1,387 lines         █████████████░░░░░░░░░░░░   53.82 % 
-Opus                     1,190 lines         ████████████░░░░░░░░░░░░░   46.18 % 
+Opus                     1,701 lines         █████████████████░░░░░░░░   66.68 % 
+Composer                 850 lines           ████████░░░░░░░░░░░░░░░░░   33.32 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.33% of written lines came from AI
-📄 Detailed Prompter — average 882 characters per prompt
+🤖 AI-Driven — 78.22% of written lines came from AI
+📄 Detailed Prompter — average 661 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 36.54% of changed lines were hand-edited
+🚀 High AI Trust — 36.9% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/08/2026 01:51:25 UTC
+ Last Updated on 04/08/2026 01:27:21 UTC
 <!--END_SECTION:waka-->
 
 ## WakaTime Yearly Heatmap
