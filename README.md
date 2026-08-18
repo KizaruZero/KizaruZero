@@ -64,58 +64,58 @@ Sunday                   291 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   4 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-C#                       2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-XML                      2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Other                    2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Markdown                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Python                   4 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.93 % 
+XML                      2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Other                    1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+C#                       1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Vue                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.77 % 
-Agent                    6 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.89 % 
-Cursor                   3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-Visual Studio            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Antigravity              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Claude Code              6 hrs               ███████████░░░░░░░░░░░░░░   44.12 % 
+Agent                    3 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+Cursor                   3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+Visual Studio            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Antigravity              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-cakrawala                7 hrs 59 mins       ████████████░░░░░░░░░░░░░   46.19 % 
-evoq-eprocurement-backend4 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-odoo                     3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-evoq-frontend            1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-evoq-eprocurement-backend21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+cakrawala                7 hrs 7 mins        █████████████░░░░░░░░░░░░   52.30 % 
+odoo                     2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+evoq-eprocurement-backend2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+evoq-frontend            1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+evoq-eprocurement-backend12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 💻 Operating System: 
-Windows                  17 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 5 mins (87.16%)
+⏱ AI Coding Time: 11 hrs 56 mins (87.61%)
 
-✍️ 4,003 lines written by AI, 399 lines written by hand (90.94% AI-written)
+✍️ 3,463 lines written by AI, 104 lines written by hand (97.08% AI-written)
 
-🔤 3,759,393 Input Tokens, 953,273 Output Tokens
+🔤 3,427,696 Input Tokens, 830,485 Output Tokens
 
-💵 $105.48 Estimated AI Cost This Week
+💵 $97.34 Estimated AI Cost This Week
 
-🧠 61 AI Sessions, 363 AI Prompts
+🧠 51 AI Sessions, 282 AI Prompts
 
-Opus                     4,015 lines         ████████████████████████░   97.10 % 
-Sonnet                   81 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Cursor                   25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Haiku                    14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Opus                     3,490 lines         ████████████████████████░   97.35 % 
+Sonnet                   81 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Haiku                    14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.94% of written lines came from AI
-📚 Verbose Prompter — average 3,694 characters per prompt
+🤖 AI-Driven — 97.08% of written lines came from AI
+📚 Verbose Prompter — average 3,903 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 23.0% of changed lines were hand-edited
+🚀 High AI Trust — 19.55% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/08/2026 00:39:12 UTC
+ Last Updated on 18/08/2026 00:39:29 UTC
 <!--END_SECTION:waka-->
 
 ## WakaTime Yearly Heatmap
