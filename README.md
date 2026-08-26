@@ -64,57 +64,57 @@ Sunday                   291 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C#                       4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-Python                   3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-Other                    2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Vue                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-SQL                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+C#                       4 hrs               ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+Python                   3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Other                    2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Vue                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+SQL                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   39.34 % 
-Agent                    3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-Cursor                   3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-VS Code                  2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Visual Studio            30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Claude Code              5 hrs 48 mins       ███████████░░░░░░░░░░░░░░   42.66 % 
+Agent                    2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+VS Code                  2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Cursor                   2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Visual Studio            30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🐱‍💻 Projects: 
-evoq-eprocurement-backend7 hrs 44 mins       █████████████░░░░░░░░░░░░   50.45 % 
-cakrawala                4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-odoo                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-evoq-frontend            1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+evoq-eprocurement-backend7 hrs 16 mins       █████████████░░░░░░░░░░░░   53.51 % 
+cakrawala                3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+odoo                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+evoq-frontend            1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-Windows                  15 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 31 mins (81.66%)
+⏱ AI Coding Time: 11 hrs 2 mins (81.2%)
 
-✍️ 2,555 lines written by AI, 422 lines written by hand (85.82% AI-written)
+✍️ 2,544 lines written by AI, 418 lines written by hand (85.89% AI-written)
 
-🔤 4,031,973 Input Tokens, 739,501 Output Tokens
+🔤 3,474,184 Input Tokens, 627,359 Output Tokens
 
-💵 $91.05 Estimated AI Cost This Week
+💵 $83.55 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 230 AI Prompts
+🧠 39 AI Sessions, 174 AI Prompts
 
-Opus                     2,445 lines         ████████████████████████░   95.62 % 
-Sonnet                   112 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Opus                     2,434 lines         ████████████████████████░   95.60 % 
+Sonnet                   112 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.82% of written lines came from AI
-📚 Verbose Prompter — average 3,450 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 20.22% of changed lines were hand-edited
+🤖 AI-Driven — 85.89% of written lines came from AI
+📚 Verbose Prompter — average 2,673 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 19.35% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/08/2026 00:41:01 UTC
+ Last Updated on 26/08/2026 00:41:34 UTC
 <!--END_SECTION:waka-->
 
 ## WakaTime Yearly Heatmap
