@@ -21,9 +21,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kizaruzero&" alt="kizaruzero" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C723%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C727%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-148%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2046%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -40,21 +40,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1027 commits        █████████░░░░░░░░░░░░░░░░   37.08 % 
-🌆 Daytime                1010 commits        █████████░░░░░░░░░░░░░░░░   36.46 % 
-🌃 Evening                610 commits         ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-🌙 Night                  123 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+🌞 Morning                1073 commits        █████████░░░░░░░░░░░░░░░░   37.50 % 
+🌆 Daytime                1052 commits        █████████░░░░░░░░░░░░░░░░   36.77 % 
+🌃 Evening                613 commits         █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+🌙 Night                  123 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   481 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Tuesday                  451 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Wednesday                434 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Thursday                 447 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Friday                   423 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Saturday                 245 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Sunday                   289 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Monday                   497 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Tuesday                  465 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Wednesday                444 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Thursday                 469 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Friday                   450 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Saturday                 247 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Sunday                   289 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
 ```
 
 
@@ -64,52 +64,53 @@ Sunday                   289 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   37.12 % 
-Markdown                 1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Other                    57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-C#                       51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-XML                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Python                   3 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   37.66 % 
+C#                       1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Markdown                 1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+XML                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Vue                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 18 mins       █████████████░░░░░░░░░░░░   52.46 % 
-VS Code                  3 hrs 53 mins       ████████████░░░░░░░░░░░░░   47.36 % 
-Visual Studio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Claude Code              5 hrs 30 mins       ██████████████░░░░░░░░░░░   56.71 % 
+VS Code                  4 hrs 11 mins       ███████████░░░░░░░░░░░░░░   43.14 % 
+Visual Studio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-cakrawala                4 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.78 % 
-odoo                     1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-evoq-frontend            46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-evoq-eprocurement-backend43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-evoq-eprocurement-backend38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+cakrawala                3 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   39.00 % 
+evoq-eprocurement-backend2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+odoo                     1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+evoq-frontend            1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+evoq-eprocurement-backend38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 
 💻 Operating System: 
-Windows                  8 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 33 mins (67.8%)
+⏱ AI Coding Time: 7 hrs 10 mins (74.02%)
 
-✍️ 1,271 lines written by AI, 1,764 lines written by hand (41.88% AI-written)
+✍️ 3,171 lines written by AI, 1,860 lines written by hand (63.03% AI-written)
 
-🔤 4,303,793 Input Tokens, 375,281 Output Tokens
+🔤 4,458,071 Input Tokens, 477,788 Output Tokens
 
-💵 $97.19 Estimated AI Cost This Week
+💵 $117.52 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 69 AI Prompts
+🧠 12 AI Sessions, 77 AI Prompts
 
-Opus                     1,359 lines         █████████████████████████   100.00 % 
+Opus                     3,369 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 41.88% of written lines came from AI
-📄 Detailed Prompter — average 722 characters per prompt
+⚖️ Balanced with AI — 63.03% of written lines came from AI
+📄 Detailed Prompter — average 721 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 62.09% of changed lines were hand-edited
+🚀 High AI Trust — 42.84% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/09/2026 02:01:51 UTC
+ Last Updated on 12/09/2026 02:06:23 UTC
 <!--END_SECTION:waka-->
 
 ## WakaTime Yearly Heatmap
