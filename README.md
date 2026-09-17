@@ -21,9 +21,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kizaruzero&" alt="kizaruzero" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C731%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C732%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%2036%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -64,56 +64,56 @@ Sunday                   289 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.96 % 
-C#                       1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Markdown                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Vue                      1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-XML                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Python                   3 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.35 % 
+C#                       1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Markdown                 1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Vue                      1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+XML                      1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.78 % 
-Claude Code              4 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.46 % 
-Visual Studio            39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Antigravity IDE          37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Antigravity              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+VS Code                  4 hrs 43 mins       ███████████░░░░░░░░░░░░░░   44.61 % 
+Claude Code              4 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   41.76 % 
+Visual Studio            39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Antigravity IDE          37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Antigravity              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🐱‍💻 Projects: 
-cakrawala                4 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.58 % 
-evoq-eprocurement-backend2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.25 % 
-evoq-frontend            1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-odoo                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-evoq-eprocurement-backend7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+cakrawala                4 hrs 31 mins       ███████████░░░░░░░░░░░░░░   42.68 % 
+evoq-eprocurement-backend2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+evoq-frontend            1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+odoo                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+evoq-eprocurement-backend7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 💻 Operating System: 
-Windows                  9 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 41 mins (58.52%)
+⏱ AI Coding Time: 6 hrs 7 mins (57.77%)
 
-✍️ 4,005 lines written by AI, 302 lines written by hand (92.99% AI-written)
+✍️ 4,291 lines written by AI, 299 lines written by hand (93.49% AI-written)
 
-🔤 2,381,503 Input Tokens, 393,554 Output Tokens
+🔤 2,570,217 Input Tokens, 454,456 Output Tokens
 
-💵 $59.27 Estimated AI Cost This Week
+💵 $60.40 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 51 AI Prompts
+🧠 15 AI Sessions, 61 AI Prompts
 
-Opus                     4,211 lines         █████████████████████████   98.92 % 
-Gemini                   46 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Opus                     4,598 lines         █████████████████████████   99.01 % 
+Gemini                   46 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.99% of written lines came from AI
-📄 Detailed Prompter — average 963 characters per prompt
+🤖 AI-Driven — 93.49% of written lines came from AI
+📄 Detailed Prompter — average 883 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 12.68% of changed lines were hand-edited
+🚀 High AI Trust — 11.66% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 02:18:42 UTC
+ Last Updated on 17/09/2026 02:22:45 UTC
 <!--END_SECTION:waka-->
 
 ## WakaTime Yearly Heatmap
