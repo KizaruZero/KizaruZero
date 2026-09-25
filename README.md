@@ -21,7 +21,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kizaruzero&" alt="kizaruzero" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C739%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C740%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2023%20mins-blue?style=flat)
 
@@ -64,53 +64,52 @@ Sunday                   289 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C#                       3 hrs 35 mins       █████████████░░░░░░░░░░░░   50.40 % 
-Markdown                 1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-Vue                      45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-SQL                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Binary                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+C#                       2 hrs 43 mins       ███████████████░░░░░░░░░░   60.02 % 
+Markdown                 1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+Binary                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Vue                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 34 mins       █████████████░░░░░░░░░░░░   50.20 % 
-Claude Code              2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.45 % 
-Visual Studio            39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+VS Code                  2 hrs 20 mins       █████████████░░░░░░░░░░░░   51.47 % 
+Claude Code              1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   37.46 % 
+Visual Studio            30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
 
 🐱‍💻 Projects: 
-evoq-eprocurement-backend4 hrs 40 mins       ████████████████░░░░░░░░░   65.70 % 
-LevelUP                  1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-evoq-frontend            52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-cakrawala                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-evoq-eprocurement-backend6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+evoq-eprocurement-backend2 hrs 57 mins       ████████████████░░░░░░░░░   64.87 % 
+LevelUP                  1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+evoq-frontend            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+evoq-eprocurement-backend6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+cakrawala                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Windows                  7 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 47 mins (53.15%)
+⏱ AI Coding Time: 2 hrs 3 mins (45.1%)
 
-✍️ 4,304 lines written by AI, 168 lines written by hand (96.24% AI-written)
+✍️ 3,331 lines written by AI, 166 lines written by hand (95.25% AI-written)
 
-🔤 2,533,472 Input Tokens, 356,989 Output Tokens
+🔤 1,761,736 Input Tokens, 203,839 Output Tokens
 
-💵 $71.36 Estimated AI Cost This Week
+💵 $43.63 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 45 AI Prompts
+🧠 7 AI Sessions, 21 AI Prompts
 
-Opus                     3,263 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     2,223 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.24% of written lines came from AI
-📄 Detailed Prompter — average 1,416 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 4.52% of changed lines were hand-edited
+🤖 AI-Driven — 95.25% of written lines came from AI
+📚 Verbose Prompter — average 2,597 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 5.61% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/09/2026 02:11:16 UTC
+ Last Updated on 25/09/2026 02:28:19 UTC
 <!--END_SECTION:waka-->
 
 ## WakaTime Yearly Heatmap
