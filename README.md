@@ -21,9 +21,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kizaruzero&" alt="kizaruzero" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C747%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C752%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-164%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%2027%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -40,20 +40,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1047 commits        █████████░░░░░░░░░░░░░░░░   36.81 % 
-🌆 Daytime                1056 commits        █████████░░░░░░░░░░░░░░░░   37.13 % 
-🌃 Evening                618 commits         █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+🌞 Morning                1047 commits        █████████░░░░░░░░░░░░░░░░   36.80 % 
+🌆 Daytime                1057 commits        █████████░░░░░░░░░░░░░░░░   37.15 % 
+🌃 Evening                618 commits         █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
 🌙 Night                  123 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   493 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Monday                   494 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
 Tuesday                  471 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Wednesday                434 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Thursday                 463 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Friday                   441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Saturday                 253 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Wednesday                434 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Thursday                 463 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Friday                   441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Saturday                 253 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 Sunday                   289 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
 ```
 
@@ -64,53 +64,53 @@ Sunday                   289 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C#                       4 hrs 56 mins       ███████████░░░░░░░░░░░░░░   43.42 % 
-Markdown                 1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Python                   1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-XML                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+C#                       6 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   39.63 % 
+Markdown                 2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Python                   1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Other                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Binary                   1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 37 mins       ████████████░░░░░░░░░░░░░   49.34 % 
-VS Code                  5 hrs 17 mins       ████████████░░░░░░░░░░░░░   46.51 % 
-Visual Studio            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Claude Code              8 hrs 48 mins       ██████████████░░░░░░░░░░░   54.12 % 
+VS Code                  6 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   38.22 % 
+Visual Studio            1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 🐱‍💻 Projects: 
-evoq-eprocurement-backend3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   32.29 % 
-evoq-eprocurement-backend2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-cakrawala                2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-LevelUP                  1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-evoq-frontend            41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+evoq-eprocurement-backend6 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   39.98 % 
+evoq-eprocurement-backend4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+cakrawala                2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+evoq-frontend            1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+LevelUP                  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 
 💻 Operating System: 
-Windows                  11 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 7 mins (62.48%)
+⏱ AI Coding Time: 10 hrs 26 mins (64.24%)
 
-✍️ 3,534 lines written by AI, 1,930 lines written by hand (64.68% AI-written)
+✍️ 3,587 lines written by AI, 2,889 lines written by hand (55.39% AI-written)
 
-🔤 2,771,128 Input Tokens, 503,943 Output Tokens
+🔤 3,677,709 Input Tokens, 541,686 Output Tokens
 
-💵 $68.79 Estimated AI Cost This Week
+💵 $62.15 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 66 AI Prompts
+🧠 13 AI Sessions, 91 AI Prompts
 
-Opus                     3,623 lines         █████████████████████████   100.00 % 
+Opus                     3,622 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.68% of written lines came from AI
-📚 Verbose Prompter — average 1,648 characters per prompt
+⚖️ Balanced with AI — 55.39% of written lines came from AI
+📄 Detailed Prompter — average 949 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 37.85% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 55.95% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/09/2026 03:15:58 UTC
+ Last Updated on 30/09/2026 02:58:02 UTC
 <!--END_SECTION:waka-->
 
 ## WakaTime Yearly Heatmap
