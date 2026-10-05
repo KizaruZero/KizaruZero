@@ -21,40 +21,40 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kizaruzero&" alt="kizaruzero" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C759%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C759%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%2050%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 720.2 kB Used in GitHub's Storage 
+> 📦 720.3 kB Used in GitHub's Storage 
  > 
-> 🏆 249 Contributions in the Year 2026
+> 🏆 295 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 33 Public Repositories 
+> 📜 35 Public Repositories 
  > 
 > 🔑 44 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1096 commits        █████████░░░░░░░░░░░░░░░░   36.94 % 
-🌆 Daytime                1119 commits        █████████░░░░░░░░░░░░░░░░   37.71 % 
-🌃 Evening                623 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-🌙 Night                  129 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+🌞 Morning                1096 commits        █████████░░░░░░░░░░░░░░░░   36.35 % 
+🌆 Daytime                1119 commits        █████████░░░░░░░░░░░░░░░░   37.11 % 
+🌃 Evening                664 commits         ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+🌙 Night                  136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   514 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Tuesday                  490 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Wednesday                444 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Thursday                 484 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Friday                   483 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Saturday                 257 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Sunday                   295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Monday                   517 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Tuesday                  490 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Wednesday                444 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Thursday                 484 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Friday                   483 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Saturday                 257 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Sunday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
 ```
 
 
@@ -64,33 +64,33 @@ Sunday                   295 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C#                       6 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.10 % 
-Python                   2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Markdown                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Other                    1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Binary                   1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+C#                       6 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.69 % 
+Python                   2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Markdown                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Other                    1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Binary                   1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 18 mins      ██████████████░░░░░░░░░░░   55.51 % 
-VS Code                  6 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.20 % 
-Visual Studio            1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Cursor                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Claude Code              10 hrs 18 mins      ██████████████░░░░░░░░░░░   54.81 % 
+VS Code                  7 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   37.98 % 
+Visual Studio            1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Cursor                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🐱‍💻 Projects: 
-evoq-eprocurement-backend7 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.94 % 
-evoq-eprocurement-backend4 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-evoq-frontend            2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-cakrawala                2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-odoo                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+evoq-eprocurement-backend7 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.41 % 
+evoq-eprocurement-backend4 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+evoq-frontend            2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+cakrawala                2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+odoo                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 💻 Operating System: 
-Windows                  18 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 39 mins (62.74%)
+⏱ AI Coding Time: 11 hrs 39 mins (61.95%)
 
 ✍️ 5,805 lines written by AI, 2,243 lines written by hand (72.13% AI-written)
 
@@ -111,7 +111,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 04/10/2026 03:23:11 UTC
+ Last Updated on 05/10/2026 03:00:04 UTC
 <!--END_SECTION:waka-->
 
 ## WakaTime Yearly Heatmap
