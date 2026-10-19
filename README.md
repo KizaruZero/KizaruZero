@@ -64,52 +64,52 @@ Sunday                   356 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.02 % 
-C#                       3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-Markdown                 1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-XML                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Python                   3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.03 % 
+C#                       2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+Other                    1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Markdown                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 19 mins       ███████████████░░░░░░░░░░   60.64 % 
-VS Code                  4 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.66 % 
-Visual Studio            19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Claude Code              5 hrs 58 mins       ████████████████░░░░░░░░░   63.11 % 
+VS Code                  3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.44 % 
+Visual Studio            19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🐱‍💻 Projects: 
-evoq-eprocurement-backend4 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.08 % 
-cakrawala                2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
-odoo                     2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-evoq-eprocurement-backend48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-evoq-frontend            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+evoq-eprocurement-backend3 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.67 % 
+cakrawala                2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+odoo                     1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+evoq-eprocurement-backend48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+evoq-frontend            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 
 💻 Operating System: 
-Windows                  12 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 4 mins (66.89%)
+⏱ AI Coding Time: 6 hrs 29 mins (68.68%)
 
-✍️ 3,344 lines written by AI, 339 lines written by hand (90.8% AI-written)
+✍️ 3,042 lines written by AI, 329 lines written by hand (90.24% AI-written)
 
-🔤 6,433,634 Input Tokens, 672,056 Output Tokens
+🔤 6,005,501 Input Tokens, 573,577 Output Tokens
 
-💵 $68.09 Estimated AI Cost This Week
+💵 $62.86 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 117 AI Prompts
+🧠 19 AI Sessions, 96 AI Prompts
 
-Opus                     3,449 lines         █████████████████████████   100.00 % 
+Opus                     3,109 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.8% of written lines came from AI
-📄 Detailed Prompter — average 729 characters per prompt
+🤖 AI-Driven — 90.24% of written lines came from AI
+📄 Detailed Prompter — average 593 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 11.61% of changed lines were hand-edited
+🚀 High AI Trust — 12.2% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/10/2026 02:05:33 UTC
+ Last Updated on 19/10/2026 02:22:35 UTC
 <!--END_SECTION:waka-->
 
 ## WakaTime Yearly Heatmap
